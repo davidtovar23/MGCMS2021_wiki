@@ -1,4 +1,4 @@
-  
+[Inicio](home)    
 [Modelado de Base de datos](base-de-datos)  
 [Implementación de CMS en nuevo proyecto Laravel](implementacion)    
 [Usuarios](usuarios)  

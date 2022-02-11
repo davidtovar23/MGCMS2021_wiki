@@ -102,9 +102,6 @@ Puede cancelar la acción si no esta seguro de eliminar el registro, al dar clic
 
 
 
-
-
-
 ## Roles de usuario
 Aparecerá en pantalla el listado de todos los roles registrados, la información de cada uno y las opciones agregar, modificar, asignar permisos y eliminar, las cuales detallaremos a continuación. 
 
@@ -198,3 +195,4 @@ Puede cancelar la acción si no esta seguro de eliminar el registro, al dar clic
 #### Diagrama de flujo - Eliminación de permiso
 ![Diagrama Eliminar permiso](images/permisos/diagramas/eliminacion_permiso.png)
 
+[]

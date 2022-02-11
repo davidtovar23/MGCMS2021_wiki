@@ -38,7 +38,7 @@ Desde la sección de sitios de clic en el botón **Agregar sitio**, lo llevara a
 Aparecerá el siguiente formulario con diversos campos importantes para el
 registro de nuevos sitios
 
-![Pantalla crear sitio](images/sitios/pantallas/crear_sitio.png)
+![Pantalla crear sitio](images/sitios/pantallas/agregar_sitio.png)
 
 El campo "*Email address*", es el email con el que se ingresara al CMS junto con el campo contraseña.  
 

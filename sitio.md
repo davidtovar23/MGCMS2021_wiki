@@ -40,14 +40,7 @@ registro de nuevos sitios
 
 ![Pantalla crear sitio](images/sitios/pantallas/agregar_sitio.png)
 
-El campo "*Email address*", es el email con el que se ingresara al CMS junto con el campo contraseña.  
-
-Es necesario seleccionar un **Rol** adecuado para el sitio, esto limitara las acciones que puede realizar dentro el CMS.  
-
-Si no se encuentra el **Rol** indicado, pueds crearlo, para esto, revise la sub sección [Roles](#roles).  
-En el apartado "*Sites*" se puede seleccionar los sitios a los que este sitio tendrá acceso.
-
-Al finalizar el llenado de los campos es necesario dar clic en **Submit**, de lo contrario los cambios no se verán reflejados
+Al finalizar el llenado de los campos es necesario dar clic en **Crear**, de lo contrario los cambios no se verán reflejados
 
 #### Diagrama de flujo - Agregrar sitio
 ![Diagrama Crear sitio](images/sitios/diagramas/agregar_sitio.png)

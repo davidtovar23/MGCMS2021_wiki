@@ -48,8 +48,7 @@ y eliminar, las cuales detallaremos a continuación.
 
 ![Listado de usuarios](images/usuarios/pantallas/listado_usuarios.png)
 
-### Glosario de clases
-glosario de clases
+
 
 #### Diagrama de flujo - Ver usuarios
 ![Ver usuarios](images/usuarios/diagramas/consulta_usuario.png)

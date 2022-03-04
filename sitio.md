@@ -26,8 +26,7 @@ y eliminar, las cuales detallaremos a continuación.
 
 ![Listado de sitios](images/sitios/pantallas/listado_sitios.png)
 
-### Glosario de clases
-glosario de clases
+
 
 #### Diagrama de flujo - Ver sitios
 ![Ver sitios](images/sitios/diagramas/consulta_sitios.png)

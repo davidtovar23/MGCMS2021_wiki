@@ -22,7 +22,6 @@ Este proyecto no contiene licencia y, por tanto, no está permitido su uso en pr
   - [Amenidades](amenidades)
   - [Categorías](categorias)
   - [Servicios](servicios)
-- [Mediafiles](mediafiles)
 - [Formularios](formularios)
 - [Banners](banners)
 - [Comentarios](comentarios)
